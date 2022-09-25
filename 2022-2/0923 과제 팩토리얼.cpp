@@ -8,13 +8,13 @@ int main()
 	cout << "input n: ";
 	cin >> n;
 
+	int i = 0;
 	int factorial = 1;
-	int counter = 1;
-	while (counter < n + 1)
+	while (i<n)
 	{
-		factorial = factorial //해결하기
-		cout << factorial << endl;
-		counter++;
+		i++;
+		factorial *= i;
 	}
 	cout << factorial << endl;
+	return 0;
 }

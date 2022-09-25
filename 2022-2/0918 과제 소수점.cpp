@@ -1,18 +1,13 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
-	float a, c = 0;
-	int b = 0;
+	double a = 0;
 	cout << "소수 입력 : ";
 	cin >> a;
 
-	b = a / 1;
-	c = a % 1;
-
-	printf(a, b, c);
-
-
+	cout << "소수 : " << a << endl;
+	cout << "정수 : " << (int)a << endl;
+	cout << "소수점 아래 : " << a - (int)a;
 }
