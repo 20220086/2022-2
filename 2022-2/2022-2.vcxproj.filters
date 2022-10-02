@@ -99,6 +99,21 @@
     <ClCompile Include="0930 test.cpp">
       <Filter>소스 파일\TestFile</Filter>
     </ClCompile>
+    <ClCompile Include="1002 과제 제곱.cpp">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 과제 최대최소.cpp">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 과제 적어도모두.cpp">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 과제 정기예금.cpp">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
+    <ClCompile Include="1002 과제 정기적금.cpp">
+      <Filter>소스 파일\Assignment</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fraction.h">

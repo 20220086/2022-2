@@ -1,3 +1,1 @@
-﻿  app.cpp
-x64\Debug\circle.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
-  2022-2.vcxproj -> C:\Users\kilbd\OneDrive\바탕 화면\visual studio\CPP\객체지향프로그래밍\2022-2\x64\Debug\2022-2.exe
+﻿  2022-2.vcxproj -> C:\Users\kilbd\OneDrive\바탕 화면\visual studio\CPP\객체지향프로그래밍\2022-2\x64\Debug\2022-2.exe
