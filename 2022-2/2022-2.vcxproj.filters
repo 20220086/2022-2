@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Assignment">
       <UniqueIdentifier>{935932f3-a089-4834-9a19-66c059bd273a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1007 실습">
+      <UniqueIdentifier>{86438fd0-dd6d-4cb5-8d44-00911d193258}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0917 과제 성적.cpp">
@@ -114,10 +117,31 @@
     <ClCompile Include="1002 과제 정기적금.cpp">
       <Filter>소스 파일\Assignment</Filter>
     </ClCompile>
+    <ClCompile Include="1007 arrangement.cpp">
+      <Filter>소스 파일\1007 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1007 multiplyByTwo.cpp">
+      <Filter>소스 파일\1007 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1007 reverse num.cpp">
+      <Filter>소스 파일\1007 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1007 maxmin.cpp">
+      <Filter>소스 파일\1007 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="acc.cpp">
+      <Filter>소스 파일\1007 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>소스 파일\1007 실습</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fraction.h">
       <Filter>소스 파일\0930 Fraction</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>소스 파일\1007 실습</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
