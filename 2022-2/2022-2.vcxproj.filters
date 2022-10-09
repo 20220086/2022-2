@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\1007 실습">
       <UniqueIdentifier>{86438fd0-dd6d-4cb5-8d44-00911d193258}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Apple">
+      <UniqueIdentifier>{2ab2869a-9988-46d7-b1f6-d2255335d552}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="0917 과제 성적.cpp">
@@ -135,6 +138,12 @@
     <ClCompile Include="Student.cpp">
       <Filter>소스 파일\1007 실습</Filter>
     </ClCompile>
+    <ClCompile Include="apple.cpp">
+      <Filter>소스 파일\Apple</Filter>
+    </ClCompile>
+    <ClCompile Include="appleapp.cpp">
+      <Filter>소스 파일\Apple</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fraction.h">
@@ -142,6 +151,9 @@
     </ClInclude>
     <ClInclude Include="student.h">
       <Filter>소스 파일\1007 실습</Filter>
+    </ClInclude>
+    <ClInclude Include="apple.h">
+      <Filter>소스 파일\Apple</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
