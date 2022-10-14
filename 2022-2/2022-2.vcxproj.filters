@@ -34,7 +34,7 @@
     <Filter Include="소스 파일\1007 실습">
       <UniqueIdentifier>{86438fd0-dd6d-4cb5-8d44-00911d193258}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Apple">
+    <Filter Include="소스 파일\1009 Apple">
       <UniqueIdentifier>{2ab2869a-9988-46d7-b1f6-d2255335d552}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -139,10 +139,16 @@
       <Filter>소스 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="apple.cpp">
-      <Filter>소스 파일\Apple</Filter>
+      <Filter>소스 파일\1009 Apple</Filter>
     </ClCompile>
     <ClCompile Include="appleapp.cpp">
-      <Filter>소스 파일\Apple</Filter>
+      <Filter>소스 파일\1009 Apple</Filter>
+    </ClCompile>
+    <ClCompile Include="1004 Arrangement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1014 Histogram.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -153,7 +159,7 @@
       <Filter>소스 파일\1007 실습</Filter>
     </ClInclude>
     <ClInclude Include="apple.h">
-      <Filter>소스 파일\Apple</Filter>
+      <Filter>소스 파일\1009 Apple</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
