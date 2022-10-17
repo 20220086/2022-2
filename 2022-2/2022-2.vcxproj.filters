@@ -13,29 +13,35 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\0930 circle">
-      <UniqueIdentifier>{9e7b6f20-4046-4a82-9515-f268952ba80b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\0919 실습">
-      <UniqueIdentifier>{fb08ab4e-17df-425b-9110-df5e656ea742}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\0926 실습 circle">
-      <UniqueIdentifier>{261ecd04-438c-47ef-9e74-72470bb4fc7b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\0930 Fraction">
-      <UniqueIdentifier>{5b232330-df64-4131-bf17-f8d1dd479238}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\TestFile">
       <UniqueIdentifier>{0fc4c139-a851-42be-91fc-9a8eca723d3d}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Assignment">
       <UniqueIdentifier>{935932f3-a089-4834-9a19-66c059bd273a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\1007 실습">
+    <Filter Include="소스 파일\실습 파일">
+      <UniqueIdentifier>{d42a3a27-f6c1-44a1-a0be-6a23112847ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습 파일\0919 실습">
+      <UniqueIdentifier>{fb08ab4e-17df-425b-9110-df5e656ea742}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습 파일\0926 실습 circle">
+      <UniqueIdentifier>{261ecd04-438c-47ef-9e74-72470bb4fc7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습 파일\1007 실습">
       <UniqueIdentifier>{86438fd0-dd6d-4cb5-8d44-00911d193258}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\1009 Apple">
+    <Filter Include="소스 파일\실습 파일\1017 실습">
+      <UniqueIdentifier>{1e5097be-c21f-47a4-b7f4-94d1d3eb8142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Assignment\1009 Apple">
       <UniqueIdentifier>{2ab2869a-9988-46d7-b1f6-d2255335d552}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Assignment\0930 circle">
+      <UniqueIdentifier>{9e7b6f20-4046-4a82-9515-f268952ba80b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Assignment\0930 Fraction">
+      <UniqueIdentifier>{5b232330-df64-4131-bf17-f8d1dd479238}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -64,43 +70,43 @@
       <Filter>소스 파일\Assignment</Filter>
     </ClCompile>
     <ClCompile Include="circle.h">
-      <Filter>소스 파일\0930 circle</Filter>
+      <Filter>소스 파일\Assignment\0930 circle</Filter>
     </ClCompile>
     <ClCompile Include="circle.cpp">
-      <Filter>소스 파일\0930 circle</Filter>
+      <Filter>소스 파일\Assignment\0930 circle</Filter>
     </ClCompile>
     <ClCompile Include="app.cpp">
-      <Filter>소스 파일\0930 circle</Filter>
+      <Filter>소스 파일\Assignment\0930 circle</Filter>
     </ClCompile>
     <ClCompile Include="0919 실습.cpp">
-      <Filter>소스 파일\0919 실습</Filter>
+      <Filter>소스 파일\실습 파일\0919 실습</Filter>
     </ClCompile>
     <ClCompile Include="0919 실습1.cpp">
-      <Filter>소스 파일\0919 실습</Filter>
+      <Filter>소스 파일\실습 파일\0919 실습</Filter>
     </ClCompile>
     <ClCompile Include="0919 실습2.cpp">
-      <Filter>소스 파일\0919 실습</Filter>
+      <Filter>소스 파일\실습 파일\0919 실습</Filter>
     </ClCompile>
     <ClCompile Include="0919 실습3.cpp">
-      <Filter>소스 파일\0919 실습</Filter>
+      <Filter>소스 파일\실습 파일\0919 실습</Filter>
     </ClCompile>
     <ClCompile Include="0919 실습4.cpp">
-      <Filter>소스 파일\0919 실습</Filter>
+      <Filter>소스 파일\실습 파일\0919 실습</Filter>
     </ClCompile>
     <ClCompile Include="0919 실습5.cpp">
-      <Filter>소스 파일\0919 실습</Filter>
+      <Filter>소스 파일\실습 파일\0919 실습</Filter>
     </ClCompile>
     <ClCompile Include="0926 실습 circle2.cpp">
-      <Filter>소스 파일\0926 실습 circle</Filter>
+      <Filter>소스 파일\실습 파일\0926 실습 circle</Filter>
     </ClCompile>
     <ClCompile Include="0926 실습 circle.cpp">
-      <Filter>소스 파일\0926 실습 circle</Filter>
+      <Filter>소스 파일\실습 파일\0926 실습 circle</Filter>
     </ClCompile>
     <ClCompile Include="fraction.cpp">
-      <Filter>소스 파일\0930 Fraction</Filter>
+      <Filter>소스 파일\Assignment\0930 Fraction</Filter>
     </ClCompile>
     <ClCompile Include="app1.cpp">
-      <Filter>소스 파일\0930 Fraction</Filter>
+      <Filter>소스 파일\Assignment\0930 Fraction</Filter>
     </ClCompile>
     <ClCompile Include="0930 test.cpp">
       <Filter>소스 파일\TestFile</Filter>
@@ -121,28 +127,28 @@
       <Filter>소스 파일\Assignment</Filter>
     </ClCompile>
     <ClCompile Include="1007 arrangement.cpp">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="1007 multiplyByTwo.cpp">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="1007 reverse num.cpp">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="1007 maxmin.cpp">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="acc.cpp">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="Student.cpp">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClCompile>
     <ClCompile Include="apple.cpp">
-      <Filter>소스 파일\1009 Apple</Filter>
+      <Filter>소스 파일\Assignment\1009 Apple</Filter>
     </ClCompile>
     <ClCompile Include="appleapp.cpp">
-      <Filter>소스 파일\1009 Apple</Filter>
+      <Filter>소스 파일\Assignment\1009 Apple</Filter>
     </ClCompile>
     <ClCompile Include="1004 Arrangement.cpp">
       <Filter>소스 파일</Filter>
@@ -150,16 +156,31 @@
     <ClCompile Include="1014 Histogram.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1017 adress.cpp">
+      <Filter>소스 파일\실습 파일\1017 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1017 pointer.cpp">
+      <Filter>소스 파일\실습 파일\1017 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1017 pointer2.cpp">
+      <Filter>소스 파일\실습 파일\1017 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1017 pointer3.cpp">
+      <Filter>소스 파일\실습 파일\1017 실습</Filter>
+    </ClCompile>
+    <ClCompile Include="1017 pScore.cpp">
+      <Filter>소스 파일\실습 파일\1017 실습</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fraction.h">
-      <Filter>소스 파일\0930 Fraction</Filter>
+      <Filter>소스 파일\Assignment\0930 Fraction</Filter>
     </ClInclude>
     <ClInclude Include="student.h">
-      <Filter>소스 파일\1007 실습</Filter>
+      <Filter>소스 파일\실습 파일\1007 실습</Filter>
     </ClInclude>
     <ClInclude Include="apple.h">
-      <Filter>소스 파일\1009 Apple</Filter>
+      <Filter>소스 파일\Assignment\1009 Apple</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
