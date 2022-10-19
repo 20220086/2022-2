@@ -171,6 +171,9 @@
     <ClCompile Include="1017 pScore.cpp">
       <Filter>소스 파일\실습 파일\1017 실습</Filter>
     </ClCompile>
+    <ClCompile Include="1019 sun.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fraction.h">
