@@ -2,28 +2,34 @@
 #include <iomanip>
 using namespace std;
 
-// rowsize를 사용하게 수정하기
 void rowTransform(const int originArray[][4], int rowSize, int rowArray[])
 {
-	for (int i = 0; i < 4; i++)
+	if (rowSize == 2)
 	{
-		rowArray[i] = originArray[0][i];
+		for (int i = 0; i < 4; i++)
+		{
+			rowArray[i] = originArray[0][i];
+		}
+		for (int j = 0; j < 4; j++)
+		{
+			rowArray[j + 4] = originArray[1][j];
+		}
 	}
-	for (int j = 0; j < 4; j++)
-	{
-		rowArray[j+4] = originArray[1][j];
-	}
+	
 }
 
 void colTransform(int originArray[][4], int rowSize, int colArray[])
 {
-	for (int i = 0; i < 4; i++)
+	if (rowSize == 2)
 	{
-		colArray[i*2] = originArray[0][i];
-	}
-	for (int j = 0; j < 4; j++)
-	{
-		colArray[j*2+1] = originArray[1][j];
+		for (int i = 0; i < 4; i++)
+		{
+			colArray[i * 2] = originArray[0][i];
+		}
+		for (int j = 0; j < 4; j++)
+		{
+			colArray[j * 2 + 1] = originArray[1][j];
+		}
 	}
 }
 void printTwoDimensional(const int twoDimensional[][4], int rowSize)

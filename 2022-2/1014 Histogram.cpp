@@ -43,6 +43,7 @@ int main()
 	cout << "count 7 : " << count(frequencie, frequencie + 10, 7) << endl;
 	cout << "count 8 : " << count(frequencie, frequencie + 10, 8) << endl;
 	cout << "count 9 : " << count(frequencie, frequencie + 10, 9) << endl;
+	cout << "너무어려워요" << endl;
 	return 0;
 }
 
